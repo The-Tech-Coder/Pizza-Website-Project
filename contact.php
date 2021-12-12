@@ -1,0 +1,81 @@
+body {
+    /* background-color: #40e6ae;*/
+    background-image: url(pizza1.jpg);
+    background-size: 100rem 60rem;
+  }
+  
+  .container {
+    width: 50%;
+    margin: auto;
+  }
+  
+  header {
+    height: 10rem;
+    text-align: center;
+  }
+  
+  nav {
+    background: rgba(226, 43, 144, 0.514);
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  main {
+    background: rgba(47, 70, 5, 0.685);
+    height: 20rem;
+    text-align: center;
+    padding-top: 1rem;
+    padding-right: 4rem;
+    padding-left: 4rem;
+    padding-bottom: 0.1rem;
+  }
+  
+  footer {
+    background: rgba(226, 43, 144, 0.514);
+    height: 4rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  p {
+    font-size: 1.5rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  a {
+    font-size: 1.5rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  nav a {
+    text-decoration: none;
+    font-size: large;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  footer p {
+    font-size: large;
+    text-align: center;
+    color: white;
+    padding-top: 1rem;
+    padding-left: 1rem;
+  }
+  
+  table {
+    font-size: 1.1rem;
+    text-align: center;
+    color: rgb(255, 245, 245);
+    padding-left: 10rem;
+  }
+
+  th, td {
+      border: solid;
+  }
