@@ -1,0 +1,15 @@
+body {
+    font-size: 2rem;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    padding-top: 10rem;
+    padding-left: 35rem;
+}
+
+a:link, a:visited, a:hover, a:active {
+  color: rgb(255, 255, 255);
+}
+
